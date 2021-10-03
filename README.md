@@ -1,2 +1,2 @@
-# Alrfati-HazemMachine-Learning-Tutorial-Website
+# Machine-Learning-Tutorial-Website
 University Project , using [HTML , CSS , JS]
